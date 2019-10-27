@@ -1,8 +1,9 @@
 ---
 title: "statistic 425 project"
-Name: "Shiyong liu", ...
+Name: "Shiyong liu", ‘Yipin Luo’
 output: html_document
 ---
+...
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
